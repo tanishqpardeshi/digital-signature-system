@@ -1,0 +1,5 @@
+{
+  "name": "Digital Signature Verification System",
+  "description": "Modular Cryptographic Workbench — Ed25519 (RFC 8032) & RSA-2048 (RSASSA-PSS + SHA-256) key generation, detached signing, verification, and tamper testing.",
+  "requestFramePermissions": []
+}
